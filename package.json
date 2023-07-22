@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Command & Control server for our ventures on r/Place ",
   "main": "src/index.js",
-  "repository": "https://github.com/PlaceNL/Chief.git",
+  "repository": "https://github.com/emhl/Chief.git",
   "license": "GPLv3",
   "private": true,
   "dependencies": {
